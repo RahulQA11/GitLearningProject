@@ -8,7 +8,7 @@ public class sum {
 		int a=10;
 		int b=20;
 		int c=a+b;
-		System.out.println("The sum of two numbers is: " +c);
+		System.out.println("The sum of two numbers is equal to: " +c);
 		
 		
 		
